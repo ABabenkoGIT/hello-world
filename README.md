@@ -6,5 +6,6 @@ This repository is built step by step in the tutorial.
 
 Edit this file in GITHUB
 New line to test PULL
+New line to test amend
 
 New line to test push branch to github
